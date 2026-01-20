@@ -1,0 +1,5 @@
+in structural and procedural programming there is too much data insecurity ----due to global variables
+---as non important functions can also impact the important global variables----to prevent that CLASS IS USED
+
+in amazon jdk we dont have to pay squat for deployment configuration while oracle has to be set up
+and and have to pay for production level projects
