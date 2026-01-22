@@ -14,3 +14,12 @@ bite code file name will be the name of papa class
 jvm converts the java code to machine dependent machine understandable bite code
 
 jvm (java virtual machine )  is platform dependent 
+
+if there are more than 1 class in a file than different bute codes will be created for all the classes and only one of all the classes can run at a time
+
+if we make a class public it's name of the file can only be the name of the public 
+
+only one class can be public as file can be named after only one class and file cant have more than one name at a time
+
+if class is empty than still bite code will be generated but cant be executed
+
