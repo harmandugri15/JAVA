@@ -21,5 +21,18 @@ if we make a class public it's name of the file can only be the name of the publ
 
 only one class can be public as file can be named after only one class and file cant have more than one name at a time
 
+
 if class is empty than still bite code will be generated but cant be executed
 
+The JVM is called a "virtual machine" because it's a software-based, abstract environment that mimics a physical computer,
+ providing a consistent platform for Java bytecode to run:
+ 1. interpreting bytecode into native machine code for any specific OS. 
+ 2. making Java "Write Once, Run Anywhere" (WORA) by abstracting away the underlying hardware and operating system.
+ 3. This virtual layer translates the universal bytecode into platform-specific instructions for Windows, macOS, Linux, etc., enabling Java's famous portability. 
+
+create project->src(right click)->create package->name(industry standard is "com.chitkara---->ulta domain")
+ java class should be kept inside a package (it is recomended)
+
+ ALL CLASS OF JAVA HAS  A SUPERPARENT AND IS CALLED "Objectclass"--->it also belongs to a package called Lang package
+
+ "PACKAGE" -->first keyword of a JAVA CLASS AND PROGRAMME
