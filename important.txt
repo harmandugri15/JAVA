@@ -3,3 +3,14 @@ in structural and procedural programming there is too much data insecurity ----d
 
 in amazon jdk we dont have to pay squat for deployment configuration while oracle has to be set up
 and and have to pay for production level projects
+
+
+JAVA SE implementation is the softeare that is implemented through JAVD JDK
+CBSE: JAVA SE
+NCERT: JAVA JDK
+
+bite code file name will be the name of papa class 
+
+jvm converts the java code to machine dependent machine understandable bite code
+
+jvm (java virtual machine )  is platform dependent 
