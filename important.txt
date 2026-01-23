@@ -36,3 +36,10 @@ create project->src(right click)->create package->name(industry standard is "com
  ALL CLASS OF JAVA HAS  A SUPERPARENT AND IS CALLED "Objectclass"--->it also belongs to a package called Lang package
 
  "PACKAGE" -->first keyword of a JAVA CLASS AND PROGRAMME
+
+ com.chitkara.Demo is the full name of the Demo class
+
+ lang package is already in the ide and need not be imported 
+
+ Package is used to avoid naming conviction problem as if Demo is created by some other person as well
+ Package can provide some level of security with the help of access modifiers.
