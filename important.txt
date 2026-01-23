@@ -43,3 +43,11 @@ create project->src(right click)->create package->name(industry standard is "com
 
  Package is used to avoid naming conviction problem as if Demo is created by some other person as well
  Package can provide some level of security with the help of access modifiers.
+
+ if int x=0bXXXX;---> decimal;  start with 0b
+ if int x=0123;---> octal number;  start with 0
+ if int x=0x1234; hexadecimal
+ it also works in float as well
+
+ by default float thingy is stored as double ;
+ float fl=2.22f;  f to specify as float and not a double
